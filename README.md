@@ -1,4 +1,4 @@
-# Algorithm for Coding Test - 풀 수 있따!  
+# Algorithm for Coding Test - 풀 수 있따
 
 
 ## 프로그래머스 
