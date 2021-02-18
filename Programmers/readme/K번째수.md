@@ -23,7 +23,7 @@ def solution(array, commands):
 
 ### Other's Sol
 commands 배열에 `map`, `lambda`을 적용해 i, j, k를 뽑는다. i= x[0], j = x[1], k = x[2] 
-그리고 x[0], x[1]로 `slice` 후, `sorted()`를 이용해 정렬한다. [4] x[2]를 이용해 정렬한다. 결과는 `list()`로 출력한다.
+그리고 x[0], x[1]로 `slice` 후, `sorted()`를 이용해 정렬한다. [4] x[2]를 이용해 정렬한다. 결과는 `list()`로 출력한다.  
 이것은 한 줄 코드로 작성되었는데, 이렇게 할 수 있을 때까지 더 연습을 해야될 것 같다..!
 ```python
 def solution(array, commands):
