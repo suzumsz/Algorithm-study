@@ -8,9 +8,12 @@
 | 이것이 코딩테스트다 | 21.01.29 | 그리디 | 큰 수의 법칙 | 하 | [이동](./book/readme/큰수의법칙.md) |
 | 이것이 코딩테스트다 | 21.01.30 | 그리디 | 숫자 카드 게임 | 하 | [이동](./book/readme/숫자카드게임.md) |
 | 이것이 코딩테스트다 | 21.01.31 | 그리디 | 1이 될 때까지 | 하 | [이동](./book/readme/1이될때까지.md) |
-| 백준 | 21.02.01 | 그리디 |  [설탕배달](https://www.acmicpc.net/problem/2839) | 하 | [이동](./Baekjoon/readme/설탕배달.md) |
+| 백준 | 21.02.01 | 그리디 | [설탕배달](https://www.acmicpc.net/problem/2839) | 하 | [이동](./Baekjoon/readme/설탕배달.md) |
 | 이것이 코딩테스트다 | 21.02.02 | 구현 | 상하좌우 | 하 | [이동](./book/readme/상하좌우.md) |
 | 이것이 코딩테스트다 | 21.02.03 | 구현 | 시각 | 하 | [이동](./book/readme/시각.md) |
 | 이것이 코딩테스트다 | 21.02.04 | 구현 | 왕실의 나이트 | 하 | [이동](./book/readme/왕실의나이트.md) |
 | 이것이 코딩테스트다 | 21.02.05 | 구현 | 게임 개발 | 중 | [이동](./book/readme/게임개발.md) |
+| 프로그래머스 | 21.02.06 | 정렬 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | Lv1 | [이동](./Programmers/readme/K번째수.md) |
+
+
 
