@@ -15,6 +15,8 @@
 | 이것이 코딩테스트다 | 21.02.05 | 구현 | 게임 개발 | 중 | [이동](./book/readme/게임개발.md) |
 | 프로그래머스 | 21.02.06 | 정렬 | [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3) | Lv1 | [이동](./Programmers/readme/K번째수.md) |
 | 이것이 코딩테스트다 | 21.02.07 | 스택 | 스택예제 | 예제 | [이동](./book/readme/스택예제.md) |
+| 이것이 코딩테스트다 | 21.02.08 | 큐 | 큐예제 | 예제 | [이동](./book/readme/큐예제.md) |
+| 이것이 코딩테스트다 | 21.02.09 | 재귀함수 | 재귀함수예제 | 예제 | [이동](./book/readme/재귀함수예제.md) |
 
 
 
