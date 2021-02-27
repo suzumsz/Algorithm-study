@@ -14,6 +14,9 @@
 </div>
 </details>
 
+<details>
+<summary>알고리즘 공부</summary>
+<div markdown="1">
 | 카테고리 | 날짜 | 알고리즘 구분 | 문제 이름 | 난이도 | 리드미 |  
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 백준 | 21.01.28 | 구현 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | 하 | [이동](./Baekjoon/readme/두수비교하기.md) |
@@ -39,6 +42,7 @@
 | 백준 | 21.01.20 | 구현 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | 하 | [이동](./Baekjoon/readme/두수비교하기.md) |
 | 백준 | 21.01.20 | 구현 | [두 수 비교하기](https://www.acmicpc.net/problem/1330) | 하 | [이동](./Baekjoon/readme/두수비교하기.md) |
 
-
+</div>
+</details>
 
 
