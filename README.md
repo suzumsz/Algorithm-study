@@ -11,7 +11,7 @@
 | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: | 
 | 백준 | 21.01.28 | 수학/사칙연산 | [곱셈](https://www.acmicpc.net/problem/2588) | 하 | [이동](./Baekjoon/readme/곱셈.md) |
 | 백준 | 21.01.29 | 수학/사칙연산 | [알람 시계](https://www.acmicpc.net/problem/2884) | 하 | [이동](./Baekjoon/readme/알람시계.md) |
-| 백준 | 21.01.29 | 수학/사칙연산 | [알람 시계](https://www.acmicpc.net/problem/2884) | 하 | [이동](./Baekjoon/readme/알람시계.md) |
+| 백준 | 21.01.30 | 수학/구현 | [합](https://www.acmicpc.net/problem/8393) | 하 | [이동](./Baekjoon/readme/합.md) |
 
 </div>
 </details>
